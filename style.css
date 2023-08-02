@@ -173,6 +173,14 @@ footer {
   font-size: 14px;
 }
 
+#email {
+  margin-top: 20px;
+}
+
+#email a{
+  text-decoration: none;
+}
+
 /* Media queries */
 
 @media (min-width: 700px) {
@@ -204,3 +212,4 @@ footer {
     left: 0;
   }
 }
+
